@@ -9,7 +9,6 @@ export const profile = {
   location: "Dubai, UAE",
   availability: "Available immediately",
   email: "harisanthpbcps@gmail.com",
-  phoneHref: "+971545758048",
   linkedin: "https://www.linkedin.com/in/harisanth-pb",
   linkedinLabel: "linkedin.com/in/harisanth-pb",
   cv: "/Harisanth_PB_CV.pdf",
