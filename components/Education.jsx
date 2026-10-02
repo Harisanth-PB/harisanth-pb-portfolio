@@ -11,7 +11,7 @@ export default function Education() {
             {profile.education.map((item) => (
               <li key={item.degree}>
                 <p className="font-medium">{item.degree}</p>
-                <p className="text-teal">{item.school}</p>
+                <p className="text-red">{item.school}</p>
                 <p className="text-sm text-muted">{item.period}</p>
               </li>
             ))}

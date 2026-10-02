@@ -16,6 +16,7 @@ module.exports = {
         amber: token("amber"),
         teal: token("teal"),
         hero: token("hero"),
+        red: token("red"),
       },
       fontFamily: {
         serif: ["Georgia", "Cambria", '"Times New Roman"', "serif"],
